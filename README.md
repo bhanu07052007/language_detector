@@ -111,8 +111,8 @@ Our best guess is: French
 
 ### Detecting English
 
-![English Detector](assets/screenshots/english_detector.png)
-![Not Detected](assets/screenshots/not_detected.png)
+![English Detector](asserts/screenshots/english_detector.png)
+![Not Detected](asserts/screenshots/not_detected.png)
 
 ---
 
